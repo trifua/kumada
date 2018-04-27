@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="767cdc49-d593-4d2d-a5a3-5dbee1f92ac4" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/home.html" />
-    </list>
+    <list default="true" id="767cdc49-d593-4d2d-a5a3-5dbee1f92ac4" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -98,7 +95,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="y" value="24" />
     <option name="width" value="683" />
     <option name="height" value="744" />
@@ -126,16 +123,6 @@
             <path>
               <item name="kumada" type="b2602c69:ProjectViewProjectNode" />
               <item name="kumada" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="kumada" type="b2602c69:ProjectViewProjectNode" />
-              <item name="kumada" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="kumada" type="b2602c69:ProjectViewProjectNode" />
-              <item name="kumada" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -182,15 +169,15 @@
       <updated>1524854559603</updated>
       <workItem from="1524854563666" duration="947000" />
       <workItem from="1524855764951" duration="8435000" />
-      <workItem from="1524865445149" duration="4686000" />
+      <workItem from="1524865445149" duration="5299000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14068000" />
+    <option name="totallyTimeSpent" value="14681000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="24" width="1366" height="744" extended-state="6" />
+    <frame x="0" y="24" width="1366" height="744" extended-state="7" />
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
